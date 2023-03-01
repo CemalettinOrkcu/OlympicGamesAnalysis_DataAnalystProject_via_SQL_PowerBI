@@ -8,6 +8,5 @@ The main task is still to show historical performance for different countries, w
 To create the necessary data model for doing analysis tables were extracted using SQL
 
 ## Olympic Games Analysis Dashboard
-
 Below is the link to the finished interactive Power BI dashobard:
 https://app.powerbi.com/view?r=eyJrIjoiYjBkMDM0ZjctMTJjYS00ZWJjLWE3MWUtM2IzNGVlZjc5ZmFiIiwidCI6IjNhY2I3Y2UzLTNkODctNDBlYS04NzdjLWMwOWNjYWRmMTcyNyJ9
